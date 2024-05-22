@@ -1,5 +1,7 @@
 # Enlace
-![Enlace #11](https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/Enlace-10-75000011-1536x1536.png | width=300)
+
+<!-- ![Enlace #11](https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/Enlace-10-75000011-1536x1536.png ) -->
+<img src="https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/Enlace-10-75000011-1536x1536.png" alt="Enlace #11" width="200"/>
 
 Enlace is a generative art project launched through [Bright Moments Paris](https://app.brightmoments.io/collections/enlace) in February, 2024
 Working in collaboration with [Trame](https://trameparis.com/pages/enlace) and [Maision Drucker](https://www.maisonlouisdrucker.com/)
@@ -9,7 +11,8 @@ Working in collaboration with [Trame](https://trameparis.com/pages/enlace) and [
 
 This project is visually expressed using the format of the weaving draft, a conventional template that conveys the minimal and necessary information for weavers to carry out a woven pattern, no matter its size and complexity. It is a graphic language to make a weave, one thread at a time. Visually, this project abstracts this language as the basis for novel generative outputs, altering its representation slightly from convention, while keeping its inherent utility intact. In other words, any weaver, human or machine, will know how to read Enlace as a set of weaving instructions. In this sense, Enlace is not about making a final product, but rather using the token as means to something else; the minimum instructions needed to make either a woven chair or woven canvas.
 
-![Photo of Chair](https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/540-Enlace-chairs-13-1280x1600.jpg | width=300 )
+![Photo of Chair](https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/540-Enlace-chairs-13-1280x1600.jpg )
+<img src="https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/540-Enlace-chairs-13-1280x1600.jpg" alt="Photo of Chair" width="200"/>
   
 ## Quick Start
 ```bash
