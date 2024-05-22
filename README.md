@@ -13,7 +13,7 @@ This project is visually expressed using the format of the weaving draft, a conv
 
 <!-- ![Photo of Chair](https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/540-Enlace-chairs-13-1280x1600.jpg ) -->
 <div align="center">
-  <img src="https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/540-Enlace-chairs-13-1280x1600.jpg" alt="Enlace #11" width="400"/>
+  <img src="https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/540-Enlace-chairs-13-1280x1600.jpg" alt="Enlace #11" style="width:60%;"/>
 </div>
 
   
