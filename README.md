@@ -1,13 +1,10 @@
 # Enlace
-
-
-
 Enlace is a generative art project launched through [Bright Moments Paris](https://app.brightmoments.io/collections/enlace) in February, 2024
 Working in collaboration with [Trame](https://trameparis.com/pages/enlace) and [Maision Drucker](https://www.maisonlouisdrucker.com/)
 
 <!-- ![Enlace #11](https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/Enlace-10-75000011-1536x1536.png ) -->
 <div align="center">
-  <img src="https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/Enlace-10-75000011-1536x1536.png" alt="Enlace #11" width="400"/>
+  <img src="https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/Enlace-10-75000011-1536x1536.png" alt="Enlace #11" style="width:75%;"/>
 </div>
 
 [Enlace](https://arandalaschstg.wpengine.com/project/enlace/) is about bringing together the algorithmic and on-chain potential of the digital token with the time-honored craft of weaving in cane as exemplified by Maison Louis Drucker. Enlace uses digital tools to open a co-creative process with a historic house of craft. New technology and traditional craft are not in conflict. Enlace claims the opposite, that the deep and time-honored traditions of craft use generative processes as part of their making and heritage.
@@ -34,11 +31,11 @@ also viewable on our site [here](https://arandalaschstg.wpengine.com/tool/enlace
 ## Usage
 
 /build
-contains minified version uploaded to Art BLocks
-The Random Seed can be set on line 1234
+contains the minified version uploaded to Art BLocks
+The random seed can be set on line 9 in tokenData.js
 
 /src
-contains the working files with a GUI
+contains the working files with a interactive GUI
 
 
 There is no built step, everything was built manually. 
