@@ -18,12 +18,14 @@ This project is visually expressed using the format of the weaving draft, a conv
 
   
 ## Quick Start
+to download use:
 ```bash
 git clone https://github.com/Aranda-Lasch/Enlace
 ```
 or download the zip above
 
 requires a webserver to run, you can use:
+
 python, node, or the VScode Live Server extension
 
 also viewable on our site [here](https://arandalaschstg.wpengine.com/tool/enlace/)
@@ -31,14 +33,16 @@ also viewable on our site [here](https://arandalaschstg.wpengine.com/tool/enlace
 ## Usage
 
 /build
+
 contains the minified version uploaded to Art BLocks
 The random seed can be set on line 9 in tokenData.js
 
 /src
+
 contains the working files with a interactive GUI
 
 
-There is no built step, everything was built manually. 
+There is no build step, everything was built manually. 
 
 
 ## Contributing
