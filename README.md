@@ -43,4 +43,5 @@ There is no built step, everything was built manually.
 
 ## Contributing
 built with [three.js](https://github.com/mrdoob/three.js) and the [artblocks starter template](https://github.com/ArtBlocks/artblocks-starter-template)
+
 Team: Benjamin Aranda, Chris Lasch, Joaquin Bonifaz, Jesse Bassett
