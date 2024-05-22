@@ -1,13 +1,14 @@
 # Enlace
 
-<!-- ![Enlace #11](https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/Enlace-10-75000011-1536x1536.png ) -->
-<div align="center">
-  <img src="https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/Enlace-10-75000011-1536x1536.png" alt="Enlace #11" width="400"/>
-</div>
+
 
 Enlace is a generative art project launched through [Bright Moments Paris](https://app.brightmoments.io/collections/enlace) in February, 2024
 Working in collaboration with [Trame](https://trameparis.com/pages/enlace) and [Maision Drucker](https://www.maisonlouisdrucker.com/)
 
+<!-- ![Enlace #11](https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/Enlace-10-75000011-1536x1536.png ) -->
+<div align="center">
+  <img src="https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/Enlace-10-75000011-1536x1536.png" alt="Enlace #11" width="400"/>
+</div>
 
 [Enlace](https://arandalaschstg.wpengine.com/project/enlace/) is about bringing together the algorithmic and on-chain potential of the digital token with the time-honored craft of weaving in cane as exemplified by Maison Louis Drucker. Enlace uses digital tools to open a co-creative process with a historic house of craft. New technology and traditional craft are not in conflict. Enlace claims the opposite, that the deep and time-honored traditions of craft use generative processes as part of their making and heritage.
 
@@ -15,7 +16,7 @@ This project is visually expressed using the format of the weaving draft, a conv
 
 <!-- ![Photo of Chair](https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/540-Enlace-chairs-13-1280x1600.jpg ) -->
 <div align="center">
-  <img src="https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/Enlace-10-75000011-1536x1536.png" alt="Enlace #11" width="400"/>
+  <img src="https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/540-Enlace-chairs-13-1280x1600.jpg" alt="Enlace #11" width="400"/>
 </div>
 
   
