@@ -34,7 +34,7 @@ also viewable on our site [here](https://arandalaschstg.wpengine.com/tool/enlace
 
 /build
 
-contains the minified version uploaded to Art BLocks
+contains the minified version uploaded to Art Blocks
 The random seed can be set on line 9 in tokenData.js
 
 /src
