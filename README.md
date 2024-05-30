@@ -32,18 +32,20 @@ also viewable on our site [here](https://arandalaschstg.wpengine.com/tool/enlace
 
 ## Usage
 
+/src
+
+contains the working files with a interactive GUI
+
+
 /build
 
 contains the minified version uploaded to Art Blocks
 
 The random seed can be set on line 9 in tokenData.js
 
-/src
-
-contains the working files with a interactive GUI
-
-
 There is no build step, everything was built manually. 
+
+
 
 
 ## Contributing
