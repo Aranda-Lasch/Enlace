@@ -13,14 +13,14 @@ This project is visually expressed using the format of the weaving draft, a conv
 
 <!-- ![Photo of Chair](https://arandalasch.com/wp-content/uploads/2024/01/540-Enlace-chairs-13-1280x1600.jpg ) -->
 <div align="center">
-  <img src="https://arandalasch.com/wp-content/uploads/2024/01/540-Enlace-chairs-13-1280x1600.jpg" alt="Enlace #11" style="width:60%;"/>
+  <img src="https://arandalasch.com/wp-content/uploads/2024/01/540-Enlace-chairs-13-1280x1600.jpg" alt="chair" style="width:60%;"/>
 </div>
 
   
 ## Quick Start
 to download use:
 ```bash
-git clone https://github.com/Aranda-Lasch/Enlace
+git clone https://github.com/Aranda-Lasch/Enlace.git
 ```
 or download the zip above
 
@@ -48,7 +48,7 @@ There is no build step, everything was built manually.
 
 
 
-## Contributing
+## Contributors
 built with [three.js](https://github.com/mrdoob/three.js) and the [artblocks starter template](https://github.com/ArtBlocks/artblocks-starter-template)
 
-Team: Benjamin Aranda, Chris Lasch, Joaquin Bonifaz, Jesse Bassett
+Team: Benjamin Aranda, Chris Lasch, Joaquin Bonifaz, Jesse Bassett, Barrett Miesfeld, Alice Wilsey, Andrew Gonzales
